@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- <mapper namespace="com.ax.mysqllearn.Mapper.ZoneMapper">
+  <select id="selectOne" resultType="com.ax.mysqllearn.dao.Zone">
+    select id,zoneName from mt_zone_info where id = #{id} 
+  </select>
+</mapper> -->
